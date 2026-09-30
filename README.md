@@ -1,4 +1,3 @@
-# Inventory-Management-and-Cross-Border-Supply-Chain-Analysis
 # Inventory Management & Cross-Border Supply Chain Analysis
 
 ## Project Overview
